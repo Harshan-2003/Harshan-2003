@@ -1,5 +1,6 @@
 ## 👋 Hi, I'm Harshavardan K K
 🎓 BE (CSE) Student at PSG Institute of Technology and Applied Research
+
 💻 Student Developer | Enthusiast in AI, Web Development, and Automation
 
 🚀 About Me
