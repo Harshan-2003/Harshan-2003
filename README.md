@@ -25,5 +25,6 @@ Other Tools: Visual Studio Code, Postman, Eclipse
 
 Email: harshavardan.kannan.2003@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/harshavardan-k-k-60b52a21a/
+LinkedIn: https://www.linkedin.com/in/kkharshavardan
+
 
