@@ -1,30 +1,108 @@
-## 👋 Hi, I'm Harshavardan K K
-🎓 BE (CSE) Student at PSG Institute of Technology and Applied Research
+# Hi there, I'm Harshavardan K K 👋
 
-💻 Student Developer | Enthusiast in Full Stack Development, AI and much more..
+**Software Engineer | Backend Developer | AI & Automation**
 
-🚀 About Me
+I'm a software engineer passionate about building scalable backend systems, AI-powered applications, and automation solutions. I enjoy solving real-world problems through clean architecture, modern backend development, and cloud technologies.
 
-I am passionate about leveraging technology to solve real-world problems. Currently, I am focused on projects that involve automating repetitive tasks and creating intelligent systems that can enhance productivity. My academic background in Computer Science and Engineering, combined with hands-on experience in software development, equips me with a strong foundation in both theory and practice.
+---
 
-🔧 Technologies & Tools
+## 🚀 What I'm Working On
 
-Programming Languages: Python, C, Java, HTML, Javascript
+My current work focuses on:
 
-Web Development Frameworks: Springboot, DHTML Stack
+* ⚙️ Developing backend services using **Python** and **FastAPI**
+* 🤖 Building AI-powered applications using **LangGraph**, LLMs, and agentic workflows
+* 🔒 Designing secure REST APIs with authentication and Role-Based Access Control (RBAC)
+* ☁️ Building and maintaining CI/CD pipelines with GitHub Actions
+* 📊 Developing dashboards and analytics solutions for enterprise workflows
+* 🛠️ Integrating cloud services and enterprise platforms
+* 🚀 Automating manual engineering processes to improve productivity
 
-Automation: Web scraping, GenAI, SLM models
+---
 
-Version Control: Git, GitHub
+## 💻 Tech Stack
 
-Other Tools: Visual Studio Code, Postman, Eclipse
+### Languages
 
+* Python
+* Java
+* C / C++
+* JavaScript
+* SQL
 
+### Backend
 
-🌐 Connect with Me
+* FastAPI
+* Flask
+* Spring Boot
+* REST APIs
+* Async Python
 
-Email: harshavardan.kannan.2003@gmail.com
+### Frontend
 
-LinkedIn: https://www.linkedin.com/in/kkharshavardan
+* React
+* HTML
+* CSS
+* Tailwind CSS
 
+### AI & Automation
 
+* LangGraph
+* LangChain
+* OpenAI APIs
+* Retrieval-Augmented Generation (RAG)
+* AI Agents
+* Prompt Engineering
+
+### Cloud & DevOps
+
+* AWS
+* Docker
+* GitHub Actions
+* CI/CD
+* Linux
+
+### Databases
+
+* PostgreSQL
+* MySQL
+* SQLite
+
+### Tools
+
+* Git
+* GitHub
+* Postman
+* VS Code
+* Jupyter Notebook
+* ServiceNow
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced System Design
+* Distributed Systems
+* AWS Cloud Architecture
+* Kubernetes
+* MLOps
+* Robotics Software (ROS2)
+
+---
+
+## 🎯 Goals
+
+* Build production-grade AI applications
+* Contribute to impactful open-source projects
+* Master cloud-native backend engineering
+* Pursue a Master's in Germany specializing in Robotics & Intelligent Systems
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** **[harshavardan.kannan.2003@gmail.com](mailto:harshavardan.kannan.2003@gmail.com)**
+
+---
+
+> *"Always learning. Always building."*
